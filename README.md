@@ -7,5 +7,6 @@ Asistentes:
 5.  Wilman Andres Quiñonez
 6.  Francelly Sanchez 
 7.  Manuel
+8.  Ricardo Timaran
 
 Repositorio de prueba  en el taller de GIT en ICESI
