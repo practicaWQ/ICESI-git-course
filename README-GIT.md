@@ -1,3 +1,4 @@
+![Logo ICESI: a otro nivel](https://www.icesi.edu.co/launiversidad/images/La_universidad/logosimbolos/logo-icesi-a-otro-nivel.png)
 <h1 align="center"><strong>Guía de Aprendizaje de Git y GitHub</strong></h1>
 
 <p align="justify">¡Bienvenido a esta guía de aprendizaje de Git y GitHub! En este documento, te proporcionaremos una introducción básica a las principales funcionalidades de Git y cómo utilizar GitHub para colaborar en proyectos de desarrollo de software. A lo largo del documento, exploraremos conceptos clave y te mostraremos ejemplos prácticos para que puedas familiarizarte con el flujo de trabajo de Git y GitHub.</p>
