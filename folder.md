@@ -6,3 +6,4 @@
 
 Pendiente de subir
 ## Otro
+Los más importanate es la concentración
