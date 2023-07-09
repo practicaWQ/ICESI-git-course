@@ -6,4 +6,4 @@
 
 Pendiente de subir
 ## Otro
-Soy muy éxitoso
+Soy muy éxitoso, para todo la discipliana es lo mejor
